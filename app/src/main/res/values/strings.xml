@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">圖片搜尋</string>
+    <string name="search_hint">搜尋圖片...</string>
+    <string name="search">搜尋</string>
+    <string name="downloaded">已下載</string>
+    <string name="welcome_title">歡迎使用圖片搜尋</string>
+    <string name="welcome_subtitle">搜尋並下載來自 Pixabay 的高品質圖片</string>
+    <string name="start_search">開始搜尋圖片</string>
+    <string name="view_downloaded">查看已下載</string>
+    <string name="quick_search">快速搜尋</string>
+    <string name="enter_keywords">輸入搜尋關鍵字</string>
+    <string name="cancel">取消</string>
+    <string name="download">下載</string>
+    <string name="downloading">下載中...</string>
+    <string name="downloaded_successfully">下載成功</string>
+    <string name="download_failed">下載失敗</string>
+    <string name="no_results">沒有找到結果</string>
+    <string name="loading">載入中...</string>
+    <string name="retry">重試</string>
+    <string name="back">返回</string>
+</resources>
